@@ -1,0 +1,15 @@
+Desktop
+Documents
+Downloads
+examples.desktop
+hs_err_pid8895.log
+jcameron-key.asc
+ls
+ls(1)
+Music
+NetBeansProjects
+Pictures
+Public
+Templates
+Videos
+webmin_1.881_all.deb
