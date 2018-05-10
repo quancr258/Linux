@@ -1,5 +1,6 @@
 let "sum=0"
-for num in {1..10}; do
-let "sum = $sum + $num"
+for num in {1..10}
+do
+	let "sum = $sum + $num"
 done
 echo $sum
