@@ -1,7 +1,9 @@
 import math
+print 'Nhap vao toa do diem A:\n'
 a1 = input('Toa do X(a): ')
 a2 = input('Toa do Y(a): ')
 a3 = input('Toa do Z(a): ')
+print 'Nhap vao toa do diem B:\n'
 b1 = input('Toa do X(b): ')
 b2 = input('Toa do Y(b): ')
 b3 = input('Toa do Z(b): ')
